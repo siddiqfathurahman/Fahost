@@ -4,8 +4,8 @@ import { FaUserCircle } from "react-icons/fa";
 const Trusted = () => {
     const trustedData = [
         {
-            name: "hihiw",
-            user: "@hihiw",
+            name: "Pither guy",
+            user: "@pitherguy",
             text: "The hosting service we use is incredibly reliable, with consistently stable uptime. The technical support team is quick to respond, keeping our website running smoothly without any issues.",
         },
         {
